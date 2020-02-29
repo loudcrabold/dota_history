@@ -2,15 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71cc33eb-bb47-42f8-a9b8-c72e81324fb6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Box/Box.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Box/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,18 +80,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583009475039</updated>
-      <workItem from="1583009476389" duration="1001000" />
+      <workItem from="1583009476389" duration="1873000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: added styled">
+      <created>1583010536963</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583010536963</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: added styled" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: added styled" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="-1175" y="181" key="CommitChangelistDialog2" timestamp="1583010471092">
+    <state x="-1175" y="181" key="CommitChangelistDialog2" timestamp="1583010536436">
       <screen x="-1600" y="156" width="1600" height="860" />
     </state>
-    <state x="-1175" y="181" key="CommitChangelistDialog2/-1600.156.1600.860/0.0.1920.1040/-3280.74.1680.1010@-1600.156.1600.860" timestamp="1583010471092" />
+    <state x="-1175" y="181" key="CommitChangelistDialog2/-1600.156.1600.860/0.0.1920.1040/-3280.74.1680.1010@-1600.156.1600.860" timestamp="1583010536436" />
+    <state width="1579" height="219" key="GridCell.Tab.0.bottom" timestamp="1583011243182">
+      <screen x="-1600" y="156" width="1600" height="860" />
+    </state>
+    <state width="1579" height="219" key="GridCell.Tab.0.bottom/-1600.156.1600.860/0.0.1920.1040/-3280.74.1680.1010@-1600.156.1600.860" timestamp="1583011243182" />
+    <state width="1579" height="219" key="GridCell.Tab.0.center" timestamp="1583011243182">
+      <screen x="-1600" y="156" width="1600" height="860" />
+    </state>
+    <state width="1579" height="219" key="GridCell.Tab.0.center/-1600.156.1600.860/0.0.1920.1040/-3280.74.1680.1010@-1600.156.1600.860" timestamp="1583011243182" />
+    <state width="1579" height="219" key="GridCell.Tab.0.left" timestamp="1583011243181">
+      <screen x="-1600" y="156" width="1600" height="860" />
+    </state>
+    <state width="1579" height="219" key="GridCell.Tab.0.left/-1600.156.1600.860/0.0.1920.1040/-3280.74.1680.1010@-1600.156.1600.860" timestamp="1583011243181" />
+    <state width="1579" height="219" key="GridCell.Tab.0.right" timestamp="1583011243182">
+      <screen x="-1600" y="156" width="1600" height="860" />
+    </state>
+    <state width="1579" height="219" key="GridCell.Tab.0.right/-1600.156.1600.860/0.0.1920.1040/-3280.74.1680.1010@-1600.156.1600.860" timestamp="1583011243182" />
     <state x="-991" y="503" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583010446848">
       <screen x="-1600" y="156" width="1600" height="860" />
     </state>

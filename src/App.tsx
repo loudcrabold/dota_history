@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import {Box} from './Components';
 function App() {
   return (
     <div className="App">
@@ -16,6 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          <Box>asd</Box>
           Learn React
         </a>
       </header>
